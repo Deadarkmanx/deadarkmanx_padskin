@@ -1,32 +1,32 @@
 .edit .controller.ds4 {
-    background: url(https://deadarkmanx_padskin/edit/master/edit.css);
+    background: url(https://deadarkmanx_padskin/blob/master/skins/base-custom.png);
 }
 
 
 .controller.edit {
-    background: url(https://deadarkmanx_padskin/edit/master/edit.css);
+    background: url(https://deadarkmanx_padskin/blob/master/skins/base-custom.png);
 }
 
 
 .edit .face .ds4 {
-    background: url(https://deadarkmanx_padskin/blob/master/skins/dpad-custom.png);
+    background: url(https://ddeadarkmanx_padskin/blob/master/skins/sticks-custom.png);
 }
 
 
 .edit .face {
     position: absolute;
-    background: url(https://deadarkmanx_padskin/blob/master/skins/dpad-custom.png);
+    background: url(https://deadarkmanx_padskin/blob/master/skins/sticks-custom.png);
 }
 
 
 .edit .stick .ds4 {
-    background: url(https://deadarkmanx_padskin/blob/master/skins/sticks-custom.png);
+    background: url(https://deadarkmanx_padskin/blob/master/skins/dpad-custom.png);
 }
 
 
 .edit .stick {
     position: absolute;
-    background: url(https://github.com/deadarkmanx_padskin/blob/master/skins/sticks-custom.png);
+    background: url(https://deadarkmanx_padskin/blob/master/skins/dpad-custom.png);
 }
 
 
